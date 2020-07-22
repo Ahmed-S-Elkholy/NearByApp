@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19F101" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PlaceModelData" representedClassName=".PlaceModelData" syncable="YES" codeGenerationType="class">
+        <attribute name="address" attributeType="String" defaultValueString="No Address"/>
+        <attribute name="imgUrl" attributeType="String" defaultValueString=""/>
+        <attribute name="lat" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="lon" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="name" attributeType="String" defaultValueString="No Name"/>
+    </entity>
+    <elements>
+        <element name="PlaceModelData" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
